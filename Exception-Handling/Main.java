@@ -1,3 +1,9 @@
+/*Create User defined exception to check the following conditions and throw the exception if the criterion does not meet.
+a. User stays in Pune/ Mumbai/ Bangalore / Chennai
+b. User has 4-wheeler
+Accept City, Vehicle from the user and check for the conditions mentioned above.
+If any of the condition not met then throw the exception. If user does not enter proper input throw the exception*/
+
 import java.util.*;
 
 class InvalidCarException extends Exception{
