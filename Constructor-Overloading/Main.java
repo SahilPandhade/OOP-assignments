@@ -1,3 +1,6 @@
+/*Develop an object oriented program in java to create a database of Covid_Patient information system containing the following information: 
+Name, ID, Date of Birth, Blood group, Test_Report, Contact address, telephone number, Aadhar Number etc using Constructor Overloading*/
+
 //Java program to create a database of Covid Patient information system.
 class patient
 {
