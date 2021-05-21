@@ -1,3 +1,7 @@
+/*Derive a subclass called Student from the superclass Computer_Engg. The class Student inherits all the member variables 
+(Name,Roll_Number,GR_Number,hobbies,etc) and methods ( getGR(), getName(), among others)from its superclass Computer_Engg, 
+also further defines a variable called area_of_interest,marks & two public methods getmarks() and getarea_of_interest().*/
+
 class Computer_Engg{
     private String Name="Sahil";
     private String Roll_No="222047";
