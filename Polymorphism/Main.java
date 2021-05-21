@@ -1,3 +1,8 @@
+/*Rahul, Rohit. Rohan wants to take a loan from Banks; they approach different banks having differ ROI rates of interest. 
+Rahul approached SBI where Rohit and Rohan approached HDFC and ICICI respectively the ROI of SBI,HDFC,ICICI is 8.4%, 7.3%, 9.7%. 
+While each bank has a class which provides a common method getrateofinterest().Calculate the rate of interest Rahul, Rohit and 
+Rohan pays to banks for the loan of 5 Lakh Rs. each.Assume the required variable for calculating ROI */
+
 import java.util.Scanner;
 class Bank{
     int amount;
